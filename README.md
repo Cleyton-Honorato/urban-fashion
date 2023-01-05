@@ -3,4 +3,4 @@ Modelo de web-site
 
 ## preview
 
-![urban-fashion-preview](./urban-fashion/img/urban-fashion-preview.png)
+![urban-fashion-preview](./UrbanFashion/img/urban-fashion-preview.png)
