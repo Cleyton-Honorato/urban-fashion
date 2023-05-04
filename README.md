@@ -1,5 +1,5 @@
 # urban-fashion
-Modelo de web-site
+Landing page simples
 
 ## preview
 
